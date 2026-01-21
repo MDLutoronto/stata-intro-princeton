@@ -1,13 +1,59 @@
 ---
-title: Home   # Title of the page, which will be displayed in the navigation and the browser title.
-layout: page  # Layout type, usually 'page' for standard pages.
-nav_order: 1  # Order in the navigation menu.
-description:  # A brief description of the page for SEO purposes.
-permalink: /  # Optional: Custom URL for the page. It will serve as the slug. For example, /home/
-created_date:  # Date when the page was created. Should be in YYYY-MM-DD format.
-has_children: False  # Set to True if the page has sub-pages.
+title: "Introduction to STATA (Princeton)"
+layout: "home"
+description: ""
+permalink: "/"  #! Remove this if not the homepage
 ---
 
-# Just the docs template
+# Introduction to STATA (Princeton)
 
-See the <a href="https://mdlutoronto.github.io/jtd-edit-setup/docs/create-new-guide/" target="_blank"> Create a New Guide</a> page to get started with creating your own guide!
+ 
+
+An overview of the guide provided by Princeton with a link to the original guide. If you want to learn how to use Stata, you might find this guide by German Rodriguez at Princeton University useful:<http://data.princeton.edu/stata/default.html>
+
+   
+Here is an overview of the guide:
+
+[1\. Introduction](http://data.princeton.edu/stata/)
+
+1\.1 A Quick Tour of Stata
+
+1\.2 Using Stata Effectively
+
+1\.3 Stata Resources
+
+ 
+
+[2\. Data Management](http://data.princeton.edu/stata/dataManagement.html)
+
+2\.1 Stata Files
+
+2\.2 Reading Data Into Stata
+
+2\.3 Data Documentation
+
+2\.4 Creating New Variables
+
+2\.5 Managing Stata Files
+
+ 
+
+[3\. Stata Graphics](http://data.princeton.edu/stata/graphics.html)
+
+3\.1 Scatterplots
+
+3\.2 Line Plots
+
+3\.3 Managing Plots
+
+ 
+
+[4\. Programming Stata](http://data.princeton.edu/stata/programming.html)
+
+4\.1 Macros
+
+4\.2 Looping
+
+4\.3 Writing Commands
+
+Tags:[Statistical software](http://data.library.utoronto.ca/taxonomy/term/80)Tools: [Stata](/tools/stata)**Date Created:** 2017\-05\-05**Updated:** 2022\-01\-19
