@@ -4,6 +4,9 @@ layout: "home"
 description: "An overview of the guide provided by Princeton with a link to the original guide. If you want to learn how to use Stata, you might find this guide by German Rodriguez at Princeton University useful: http://data.princeton.edu/stata/default.html"
 created_date: 2017-05-05
 permalink: "/"  #! Remove this if not the homepage
+maintainer:
+ - name: Nadia Muhe
+   link: https://library.utoronto.ca/staff/nadia-muhe
 ---
 
 # Introduction to STATA (Princeton)
