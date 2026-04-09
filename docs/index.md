@@ -59,7 +59,3 @@ Here is an overview of the guide:
 4.2 Looping
 
 4.3 Writing Commands
-
-Tags: [Statistical software](http://data.library.utoronto.ca/taxonomy/term/80) 
-
-Tools: [Stata](https://mdl.library.utoronto.ca/tools/stata)
