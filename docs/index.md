@@ -59,3 +59,5 @@ Here is an overview of the guide:
 4.2 Looping
 
 4.3 Writing Commands
+
+Tools: [Stata](https://mdlutoronto.github.io/tutorials-search/?tool=Stata)
